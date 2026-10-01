@@ -1,0 +1,3 @@
+{
+  "name":"resumeiq-monorepo","private":true,"scripts":{"install:all":"npm --prefix frontend install","dev":"npm --prefix frontend run dev"}
+}
