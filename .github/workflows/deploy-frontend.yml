@@ -41,7 +41,7 @@ jobs:
       - name: Build frontend
         working-directory: frontend
         env:
-          VITE_API_URL: https://rolefit-ai-f126h.onrender.com
+          VITE_API_URL: https://rolefit-ai-f26h.onrender.com
         run: npm run build
 
       - name: Setup Pages
